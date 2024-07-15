@@ -1,0 +1,8 @@
+2024-07-15 14:48:22.551 [main] INFO  api.test.UserTestsfromProp - *********Creating User**********
+2024-07-15 14:48:25.557 [main] INFO  api.test.UserTestsfromProp - *********User Created************
+2024-07-15 14:48:25.561 [main] INFO  api.test.UserTestsfromProp - *********Reading User**********
+2024-07-15 14:48:27.046 [main] INFO  api.test.UserTestsfromProp - *********User Info Displayed**********
+2024-07-15 14:48:27.051 [main] INFO  api.test.UserTestsfromProp - *********Updating user**********
+2024-07-15 14:48:28.578 [main] INFO  api.test.UserTestsfromProp - *********User Updated**********
+2024-07-15 14:48:29.806 [main] INFO  api.test.UserTestsfromProp - *********Deleting User**********
+2024-07-15 14:48:31.245 [main] INFO  api.test.UserTestsfromProp - *********User Deleted**********
